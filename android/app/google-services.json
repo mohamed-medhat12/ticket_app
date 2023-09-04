@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "716959775532",
+    "firebase_url": "https://resela-association-default-rtdb.firebaseio.com",
+    "project_id": "resela-association",
+    "storage_bucket": "resela-association.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716959775532:android:fdbe045e5d526f18e28a89",
+        "android_client_info": {
+          "package_name": "com.example.ticket_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716959775532-7u1cot43u1jivcccka5cdnhpv2d49jh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdg2eUAxkY4PLFWrUXyMZFRqeIAKYHBOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716959775532-7u1cot43u1jivcccka5cdnhpv2d49jh1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "716959775532-25dtl18sdssnlqhqss6sjultcn4a56dm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ticketApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
